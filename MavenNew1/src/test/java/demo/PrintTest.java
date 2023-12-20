@@ -7,5 +7,6 @@ public class PrintTest {
 	public void printTest()
 	{
 		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 }
